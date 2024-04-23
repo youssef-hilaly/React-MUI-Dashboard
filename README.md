@@ -1,5 +1,7 @@
 **Admin Dashboard React Project**
 
+![alt text](https://github.com/youssef-hilaly/React-MUI-Dashboard/screenshot/Screenshot 2024-04-23 201059.png?raw=true)
+
 **Description**
 
 This project is a React-based admin dashboard application that provides a visually appealing and interactive interface for managing various administrative tasks. It utilizes a combination of powerful libraries, including:
@@ -46,19 +48,3 @@ The project may include unit and integration tests using Jest and testing librar
 **Deployment**
 
 The specific deployment process will depend on your chosen hosting provider. Generally, you'll want to build an optimized production-ready version of the application using `npm run build`. The output usually goes into a `build` folder, which you can then deploy to your hosting environment following their instructions. Refer to your hosting provider's documentation for detailed deployment steps.
-
-**Contributing**
-
-If you'd like to contribute to this project, please create a pull request outlining your changes. Ensure proper code formatting and linting according to the project's style guide (if any) before submitting your contribution.
-
-**License**
-
-This project is licensed under the MIT License: [https://choosealicense.com/licenses/mit/](https://choosealicense.com/licenses/mit/). You are free to use, modify, and distribute the code under the terms of this license.
-
-**Additional Notes**
-
-- Consider including any specific configuration instructions or environment variables that users might need to set up.
-- If the project uses a custom configuration file (e.g., `.env`), provide guidance on how to create and manage it.
-- Mention any project-specific conventions or style guides that contributors should follow.
-
-Remember to replace placeholders like `Project Name` with your actual project's information. This README.md file provides a solid foundation for your React admin dashboard project, guiding users through installation, development, testing, deployment, and contribution.
