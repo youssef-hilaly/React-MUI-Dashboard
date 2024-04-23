@@ -1,6 +1,6 @@
 **Admin Dashboard React Project**
 
-![alt text](https://github.com/youssef-hilaly/React-MUI-Dashboard/screenshot/Screenshot 2024-04-23 201059.png?raw=true)
+![alt text](./screenshot/Screenshot 2024-04-23 201059.png?raw=true)
 
 **Description**
 
